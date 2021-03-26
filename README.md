@@ -1,2 +1,2 @@
-# PPCA2020-02-AED
-Minimum Vertex Cover applied to Guarani neighborhood, in Belo Horizonte - Minas Gerais.
+# UnB - PPCA-2020/02 - AED
+Refers to final delivery of the discipline Data Structure and Algorithm of the Graduate Program in Applied Computing at the University of Brasilia, 2020/02. The team implemented an exact algorithm and compared its performance with a heuristic (HVX) and a metaheuristic (HGA) algorithm, both proposed by Kotecha and Gambhava in 2003. Finally, the algorithms were applied to a specific case of minimum vertex coverage to identify the best points to be installed surveillance cameras in the Guarani neighborhood, in Belo Horizonte - Minas Gerais.
